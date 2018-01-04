@@ -22,3 +22,5 @@ http://toolsqa.com/mobile-automation/appium/how-to-find-apppackage-and-appactivi
 https://github.com/appium/sample-code/blob/master/sample-code/examples/ruby/simple_test.rb
 
 http://eliasnogueira.com/arquivos_blog/selenium/desafio/
+
+https://www.devmedia.com.br/desenvolvimento-orientado-a-comportamento-bdd-com-cucumber/33547
