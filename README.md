@@ -24,3 +24,6 @@ https://github.com/appium/sample-code/blob/master/sample-code/examples/ruby/simp
 http://eliasnogueira.com/arquivos_blog/selenium/desafio/
 
 https://www.devmedia.com.br/desenvolvimento-orientado-a-comportamento-bdd-com-cucumber/33547
+
+
+MAVEN JENKINS CUCUMBER https://www.youtube.com/watch?v=EYFwSzsm13U
